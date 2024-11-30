@@ -1,2 +1,3 @@
-# asym-testing
-Public testing for Asymnmetrical
+# Asymmetrical Public Testing
+
+Public testing for Asymnmetrical, if you encounter any bugs, report it in Issues.
